@@ -8,7 +8,7 @@
 </p>
 <hr>
 <p align="center"><i>
-Regular Expressions & High Level Web Scraping</i>
+JavaScript / Python / Kotlin / Regular Expressions & High Level Web Scraping</i>
 </p>
 
 ---
