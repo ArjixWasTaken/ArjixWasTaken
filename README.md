@@ -6,8 +6,9 @@
 <a href="https://discord.com/users/674710789138939916"><code><img src="https://discord.c99.nl/widget/theme-4/674710789138939916.png" height="80px"></code></a>
 </p>
 <hr>
-<p align="center"><i>
-JavaScript / Python / Kotlin / Regular Expressions & High Level Web Scraping</i>
+
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=js,python,nodejs,ts,kotlin,git,regex" />
 </p>
 
 <h3 align="center">Stats</h3>
