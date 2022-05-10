@@ -2,9 +2,6 @@
 
 
 <h3 align="center"><i>Writing junk code to entertain myself.</i></h3>
-<p align="center">
-<a href="https://discord.com/users/674710789138939916"><code><img src="https://discord.c99.nl/widget/theme-4/674710789138939916.png" height="80px"></code></a>
-</p>
 <hr>
 
 <p align="center">
