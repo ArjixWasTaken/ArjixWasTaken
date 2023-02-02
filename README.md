@@ -5,7 +5,7 @@
 <hr>
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=js,python,nodejs,ts,kotlin,cs,go,git,regex" />
+	<img src="https://skillicons.dev/icons?i=js,python,nodejs,ts,kotlin,cs,go,git,rust,regex" />
 </p>
 
 <h3 align="center">Stats</h3>
