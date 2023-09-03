@@ -5,12 +5,16 @@
 <hr>
 
 
-
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=js,python,nodejs,ts,kotlin,cs,go,git,rust,regex" />
 </p>
 
 <h3 align="center">Stats</h3>
+<p align="center">
+	<a href="https://profile.codersrank.io/user/ArjixWasTaken">
+		<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ArjixWasTaken&branding=false&style=--header-bg-color:black;%20--bg-color:%23161719;%20--badge-bg-color:%20%2328292b;%20--badge-text-color:%20white;" width="500" />
+	</a>
+</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ArjixWasTaken&show_icons=true&theme=synthwave&showDisplayName=true"> </p>
 
 <h3 align="center">Discord</h3>
