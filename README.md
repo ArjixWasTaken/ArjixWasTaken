@@ -6,7 +6,7 @@
 
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,java,php,cs,go,git,rust,regex," />
+	<img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,java,php,cpp,cs,go,git,rust,regex," />
 </p>
 
 <h3 align="center">Stats</h3>
