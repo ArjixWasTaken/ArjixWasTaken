@@ -27,5 +27,5 @@
 <h3 align="center">Visitors (Since 2021/09/25)</h3>
 <p align="center">
 	<img src="https://count.getloli.com/get/@ArjixWasTaken?theme=rule34"> <br/>
-	PS: Check out my <a href="https://arjix.is-a.dev/">website</a> for cool stuff. (Work in progress)
+	PS: Check out my <a href="https://arjix.dev/">website</a> for cool stuff. (Work in progress)
 </p>
