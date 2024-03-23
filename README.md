@@ -20,7 +20,7 @@
 <h3 align="center">Discord</h3>
 <p align="center">
 	<a href="https://discord.com/users/674710789138939916">
-		<img src="https://lanyard.cnrad.dev/api/674710789138939916"></img>
+		<img src="https://lancard.arjix.dev/api/674710789138939916"></img>
 	</a>
 </p>
 
