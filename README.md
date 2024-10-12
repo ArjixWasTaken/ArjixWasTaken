@@ -17,15 +17,7 @@
 </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ArjixWasTaken&show_icons=true&theme=synthwave&showDisplayName=true"> </p>
 
-<h3 align="center">Discord</h3>
-<p align="center">
-	<a href="https://discord.com/users/674710789138939916">
-		<img src="https://lancard.arjix.dev/api/674710789138939916"></img>
-	</a>
-</p>
-
 <h3 align="center">Visitors (Since 2021/09/25)</h3>
 <p align="center">
-	<img src="https://count.getloli.com/get/@ArjixWasTaken?theme=rule34"> <br/>
-	PS: Check out my <a href="https://arjix.dev/">website</a> for cool stuff. (Work in progress)
+	<img src="https://count.getloli.com/get/@ArjixWasTaken?theme=moebooru"> <br/>
 </p>
